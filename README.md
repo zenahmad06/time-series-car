@@ -6,7 +6,7 @@ This project analyzes data related to car sales. The dataset used in this projec
 ## Dataset
 
 The dataset is from Kaggle and can be found at the following link:
-- [Kaggle Dataset URL]([https://www.kaggle.com/dataset-name](https://www.kaggle.com/datasets/vagnerbessa/average-car-prices-bazil?select=fipe_2022.csv))
+-https://www.kaggle.com/datasets/vagnerbessa/average-car-prices-bazil?select=fipe_2022.csv
   ### Dataset Description
 
 The dataset includes the following variables:
